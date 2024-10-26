@@ -38,11 +38,11 @@ Download 3D files [here](https://www.herreraengineering.com/)
 9. Change NumberFour to new IR signal value name created in step 5
 8. Change print statement to match button name
 9. Change mode to match robot movement function
-⋅⋅* See example where `mode = "RIGHT_TURN"` calls `rightTurn(turnInterval)` function
+⋅⋅⋅See example where `mode = "RIGHT_TURN"` calls `rightTurn(turnInterval)` function
 11. Upload sketch to the arduino board on selected port
 12. Open the serial monitor
 13. Press decoded button
-⋅⋅* Button name prints to serial monitor when signal is received
-⋅⋅* Robot performs movement function
+⋅⋅⋅Button name prints to serial monitor when signal is received
+⋅⋅⋅Robot performs movement function
 
 
