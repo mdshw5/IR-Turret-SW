@@ -27,6 +27,8 @@ Download 3D files [here](https://www.herreraengineering.com/)
 
 ## Step 3: Program IR Signal Function
 
+<img src="gifs\program_turret.gif" alt="decode ir signal" width="700px">
+
 1. Open IR_Turret.ino sketch in Arduino IDE
 2. Connect arduino to the computer using a usb cable
 3. Upload sketch to the arduino board on selected port
