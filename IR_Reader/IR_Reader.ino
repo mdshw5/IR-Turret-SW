@@ -92,25 +92,5 @@ void printpulses(void) {
       Serial.println(",");
     }
   }
-  
-  // print it in a 'array' format
-  // Serial.println("int IRsignal[] = {");
-  // Serial.println("// ON, OFF ");
-  // for (uint8_t i = 0; i < currentpulse-1; i++) {
-  //   //Serial.print("\t"); // tab
-  //   Serial.print("pulseIR(");
-  //   Serial.print(pulses[i][1] * RESOLUTION , DEC);
-  //   Serial.print(");");
-  //   Serial.println("");
-  //   //Serial.print("\t");
-  //   Serial.print("delayMicroseconds(");
-  //   Serial.print(pulses[i+1][0] * RESOLUTION , DEC);
-  //   Serial.println(");");
- 
-  // }
-  // //Serial.print("\t"); // tab
-  // Serial.print("pulseIR(");
-  // Serial.print(pulses[currentpulse-1][1] * RESOLUTION, DEC);
-  // Serial.print(");");
  
 }
