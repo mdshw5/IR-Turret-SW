@@ -4,6 +4,10 @@
 
 Download 3D files [here](https://www.herreraengineering.com/)
 
+## Wire Diagram
+
+<img src="gifs\Wire_Diagram.png" alt="wire diagram" width="700px">
+
 ## Step 1: Download Sketches
 
 <img src="gifs\download_sketches.gif" alt="download sketches" width="700px">
@@ -27,7 +31,7 @@ Download 3D files [here](https://www.herreraengineering.com/)
 
 ## Step 3: Program IR Signal Function
 
-<img src="gifs\program_turret.gif" alt="decode ir signal" width="700px">
+<img src="gifs\program_turret.gif" alt="program turret" width="700px">
 
 1. Open IR_Turret.ino sketch in Arduino IDE
 2. Connect arduino to the computer using a usb cable
